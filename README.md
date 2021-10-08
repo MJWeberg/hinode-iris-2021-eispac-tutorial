@@ -5,9 +5,10 @@ Notebooks for the EISPAC tutorial at the Hinode-14/IRIS-11 Meeting
 * Introduction
   * Links to github repo and User's guide
   * General overview of the package and hdf5 files
+  * Show an end-to-end example of reading and fitting an observation
 * Data discovery and download
   * Search for data with `eis_catalog` GUI tool
-  * Reference online tools? (e.g. EIS Mapper)
+  * Reference online tools (e.g. EIS Mapper)
   * Download files for 2020-11-09 03:09:12
 * Reading and exploring EIS data
   * Using `read_wininfo()` and `read_cube()`
